@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/sdp
+cd $HOME/SDP
 
 install() {
 	    cd tg
